@@ -1,9 +1,5 @@
 # Skateboarding Game
 
-**Developed by:** CodingGamerz  
-**Date:** June 10, 2022  
-**Contact:** 123 Java Rd., Codington, ON 12345 | (123) 456-7890
-
 ## Overview
 
 The **Skateboarding Game** is a Java-based game that simulates the excitement of skateboarding through a city scene. Players collect coins while avoiding various obstacles and can perform tricks like ollies, kickflips, and treflips. Inspired by popular games such as Braille Skateboarding and Skate 3, this interactive and fun game is designed primarily for kids and teens looking for a quick gaming experience during their breaks.
