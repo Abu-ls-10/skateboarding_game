@@ -16,9 +16,9 @@ The **Skateboarding Game** is a Java-based game that simulates the excitement of
 ## Specifications
 
 - **Resolution**: The game runs at a resolution of 900 x 720, ensuring an optimal user experience without overloading system resources.
-- **Graphics Library**: The game uses either JFrame or LWJGL (Lightweight Java Game Library) for the graphical user interface.
+- **Graphics Library**: The game uses either JFrame for the graphical user interface.
 - **Frame Rate**: Maintained between 30 and 60 FPS for smooth gameplay.
-- **Class Structure**: The game includes at least three classes: `Skateboard`, `Coin`, and `Obstacle` for enhanced functionality and organization.
+- **Class Structure**: The game includes `Skateboard`, `Coin`, and `Obstacle` classes for enhanced functionality and organization.
 - **Error Handling**: Implemented during file operations to manage user data effectively.
 - **Documentation**: Code includes detailed comments for clarity and navigation.
 
@@ -46,8 +46,4 @@ The **Skateboarding Game** is a Java-based game that simulates the excitement of
 Throughout the development of the Skateboarding Game, I encountered various challenges, particularly with implementing a GUI in Java, as it was my first experience. I learned the importance of spending time on foundational knowledge, like JFrame, to tackle performance indicators effectively. 
 
 Incorporating core Java concepts such as arrays and OOP programming was a significant success. However, if I were to do this project again, I would opt for a modular approach to manage the complexity of Java GUIs better.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
